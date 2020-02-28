@@ -1,7 +1,7 @@
-# TrailersApp
+# Cinephile
 A simple project for The Movie DB based on <b>MVVM clean architecture</b>.
 
-<img src="https://github.com/anitaa1990/TrailersApp/blob/master/media/2.gif" width="200" style="max-width:100%;">   <img src="https://github.com/anitaa1990/TrailersApp/blob/master/media/3.gif" width="200" style="max-width:100%;"></br></br>
+<img src="https://github.com/brianmarete/Cinephile/blob/master/media/2.gif" width="200" style="max-width:100%;">   <img src="https://github.com/brianmarete/Cinephile/blob/master/media/3.gif" width="200" style="max-width:100%;"></br></br>
 
 #### App Features
 * Users can view list of the latest movies of their choice.
@@ -14,7 +14,7 @@ A simple project for The Movie DB based on <b>MVVM clean architecture</b>.
 #### App Architecture 
 Based on mvvm architecture and repository pattern.
 
-<img src="https://github.com/anitaa1990/TrailersApp/blob/master/media/1.png" width="500" style="max-width:500%;">
+<img src="https://github.com/brianmarete/Cinephile/blob/master/media/1.png" width="500" style="max-width:500%;">
  
  #### The app includes the following main components:
 
@@ -38,7 +38,7 @@ Based on mvvm architecture and repository pattern.
 
 #### App Specs
 * Minimum SDK 16
-* [Java8](https://java.com/en/download/faq/java8.xml) (in master branch) & [Kotlin](https://kotlinlang.org/) (in kotlin_support branch)
+* [Java8](https://java.com/en/download/faq/java8.xml)
 * MVVM Architecture
 * Android Architecture Components (LiveData, Lifecycle, ViewModel, Room Persistence Library, Navigation Component, ConstraintLayout)
 * [RxJava2](https://github.com/ReactiveX/RxJava) for implementing Observable pattern.
